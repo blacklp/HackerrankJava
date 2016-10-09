@@ -23,7 +23,7 @@ public class BiggerIsGreater {
             if (isBigger) {
                 break;
             }
-             // XXX changing last one can make us lose one of the previous ones that make is as big a the original one...
+             // changing last one can make us lose one of the previous ones that make is as big a the original one...
         }
         sb.append(original);
         return sb.toString();

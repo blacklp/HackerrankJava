@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class BSTLowestCommonAncestor {
 //	class Node {
-//		int data;
-//		Node left;
-//		Node right;
+//	    int data;
+//	    Node left;
+//	    Node right;
 //	}
 
     static Node lca(Node root, int v1, int v2) {

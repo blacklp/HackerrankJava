@@ -6,9 +6,9 @@ public class PreorderTraversal {
      * follows
      */
 //	class Node {
-//		int data;
-//		Node left;
-//		Node right;
+//	    int data;
+//	    Node left;
+//	    Node right;
 //	}
 
     static void Preorder(Node root) {
